@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "webtrink",
+    "slug": "webtrink",
+    "version": "1.0.0",
+    "platforms": ["web"],
+    "web": {
+      "bundler": "webpack",
+      "output": "static"
+    }
+  }
+}
